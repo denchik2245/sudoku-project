@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.idea/
+.vscode/
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+postgres_data/
